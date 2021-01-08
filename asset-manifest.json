@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7c049f71.chunk.css",
+    "main.js": "./static/js/main.d2da889b.chunk.js",
+    "main.js.map": "./static/js/main.d2da889b.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.17f6b97e.js",
+    "runtime~main.js.map": "./static/js/runtime~main.17f6b97e.js.map",
+    "static/css/2.85eb9e24.chunk.css": "./static/css/2.85eb9e24.chunk.css",
+    "static/js/2.70a02fbc.chunk.js": "./static/js/2.70a02fbc.chunk.js",
+    "static/js/2.70a02fbc.chunk.js.map": "./static/js/2.70a02fbc.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.df69bc073f8795cc15884acab06a54ef.js": "./precache-manifest.df69bc073f8795cc15884acab06a54ef.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.85eb9e24.chunk.css.map": "./static/css/2.85eb9e24.chunk.css.map",
+    "static/css/main.7c049f71.chunk.css.map": "./static/css/main.7c049f71.chunk.css.map",
+    "static/media/standard.less": "./static/media/CodeSaver-Regular.3e57c846.otf",
+    "static/media/home.less": "./static/media/bc.594063b3.jpg",
+    "static/media/userInfo.less": "./static/media/userbc.3b3b9525.png",
+    "static/media/login.less": "./static/media/loginBC.d2bb1bd1.jpg",
+    "static/media/logo.png": "./static/media/logo.ac0fed0a.png",
+    "static/media/mainBC_01.png": "./static/media/mainBC_01.296e8b29.png",
+    "static/media/mainBC_02.png": "./static/media/mainBC_02.f2efafc5.png"
+  }
+}
