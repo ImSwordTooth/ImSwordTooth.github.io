@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1828023a","path":"/pages/components/layout/grid.html","title":"布局容器 - Grid","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"props","slug":"props","link":"#props","children":[]},{"level":2,"title":"setter","slug":"setter","link":"#setter","children":[]}],"git":{},"filePathRelative":"pages/components/layout/grid.md"}');export{e as data};

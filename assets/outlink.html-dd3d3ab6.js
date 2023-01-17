@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-409be0e0","path":"/pages/components/common/outlink.html","title":"外部链接 - Outlink","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"pages/components/common/outlink.md"}');export{t as data};

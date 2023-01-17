@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c958a74e","path":"/pages/components/common/nametag.html","title":"多彩标签 - NameTag","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"pages/components/common/nametag.md"}');export{e as data};
