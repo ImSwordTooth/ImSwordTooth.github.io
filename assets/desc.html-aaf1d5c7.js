@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-36acbc53","path":"/pages/components/desc.html","title":"组件列表","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"pages/components/desc.md"}');export{e as data};

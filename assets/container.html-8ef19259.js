@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-10656968","path":"/pages/components/layout/container.html","title":"单容器 - Container","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"props","slug":"props","link":"#props","children":[]}],"git":{},"filePathRelative":"pages/components/layout/container.md"}');export{e as data};
