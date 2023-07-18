@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-abc02d12","path":"/pages/components/common/colorPicker.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1673943153000},"filePathRelative":"pages/components/common/colorPicker.md"}');export{e as data};

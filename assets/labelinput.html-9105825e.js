@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1818e394","path":"/pages/components/common/labelinput.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1673943153000},"filePathRelative":"pages/components/common/labelinput.md"}');export{e as data};
