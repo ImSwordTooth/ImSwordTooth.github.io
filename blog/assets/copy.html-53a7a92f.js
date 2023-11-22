@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4374dcd6","path":"/pages/components/common/copy.html","title":"复制 - Copy","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1674095924000},"filePathRelative":"pages/components/common/copy.md"}');export{e as data};
