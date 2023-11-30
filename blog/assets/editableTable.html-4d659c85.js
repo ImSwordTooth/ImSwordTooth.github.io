@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-48cbd144","path":"/pages/components/common/editableTable.html","title":"立即编辑表格 - EditableTable","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701308594000},"filePathRelative":"pages/components/common/editableTable.md"}');export{e as data};
