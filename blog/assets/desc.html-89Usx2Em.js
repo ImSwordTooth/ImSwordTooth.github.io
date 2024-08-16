@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-881e49f6","path":"/pages/other/desc.html","title":"介绍","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"分类","slug":"分类","link":"#分类","children":[]},{"level":2,"title":"物料中的网络请求","slug":"物料中的网络请求","link":"#物料中的网络请求","children":[]}],"git":{"updatedTime":1701308594000},"filePathRelative":"pages/other/desc.md"}');export{e as data};
